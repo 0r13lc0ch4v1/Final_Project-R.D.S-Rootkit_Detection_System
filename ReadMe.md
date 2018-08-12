@@ -42,7 +42,7 @@ MIT
 
 ### disclaimer 
 
-We wrote this project for study purposes only as our degree finel project. we don't write drivers, and this is our (more or less), the first driver we ever wrote. Along the way, we deleted and added code so it is not our best work, but still, we think it can help the community.
+We wrote this project for study purposes only as our degree final project. we don't write drivers, and this is our (more or less), the first driver we ever wrote. Along the way, we deleted and added code so it is not our best work, but still, we think it can help the community.
 
 **Free Software, Hell Yeah!**
 
